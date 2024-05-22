@@ -5,3 +5,5 @@ The Autoencoder contains an encoder and decoder where encoder compresses the ima
 
 Loss function used: MSE Optimizer: Adam optimizer
 
+
+![Capture](https://github.com/heliasah/Encoder-Decoder-on-MNIST-Dataset/assets/102138740/ad129602-23ca-4763-832b-6354661a7656)
